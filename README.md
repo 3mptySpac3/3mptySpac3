@@ -1,3 +1,6 @@
+<p alighn="center">
+<img src="https://github.com/3mptySpac3/3mptySpac3/blob/main/SolPunk.png">
+</p>
 <h1 align="center">Hi ✌🏾, I'm Jean-Pierre</h1>
 <h3 align="center">A dynamic developer with an eye for design</h3>
 
