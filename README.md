@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [meme](https://github.com/3mptySpac3/meme.git)
 
-- 🌱 I’m currently learning **React, React Native, PL/SQl**
+- 🌱 I’m currently learning **React, React Native, PL/SQL, Java**
 
 - 📫 How to reach me **jeanpierrendeforgwang@gmail.com**
 
