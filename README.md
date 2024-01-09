@@ -21,7 +21,7 @@
 
 ## GitHub Trophies 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3mptySpac3&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Jean-Pierre" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3mptySpac3&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="Jean-Pierre" /></a> </p>
 
 
 
