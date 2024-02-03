@@ -19,7 +19,7 @@
 <a href="https://www.linkedin.com/in/jean-pierre-n/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jean-pierre nde-forgwang" height="30" width="40" /></a>
 </p>
 
-### GitHub Trophies 
+#### GitHub Trophies 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3mptySpac3&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="Jean-Pierre" /></a> </p>
 
