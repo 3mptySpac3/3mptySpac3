@@ -6,8 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3mptyspac3&label=Profile%20views&color=0e75b6&style=flat" alt="3mptyspac3" /> </p>
 
-### [Portfolio](jpspearlport.vercel.app/).
-<br/>
+### [Portfolio]([jpspearlport.vercel.app/](https://github.com/3mptySpac3/JPPortfolio)).
 <p>(⌐■_■) </p>
 
 ---
