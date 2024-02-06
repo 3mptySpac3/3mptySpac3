@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **React, React Native, PL/SQL, Java**
 
-- 📫 How to reach me **jeanpierrendeforgwang@gmail.com**
+- 📫 How to reach me **jp@jean-pierre.dev**
 --- 
 
 <h3 align="left">Connect with me:</h3>
