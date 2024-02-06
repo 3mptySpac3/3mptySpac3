@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3mptyspac3&label=Profile%20views&color=0e75b6&style=flat" alt="3mptyspac3" /> </p>
 
-### [Portfolio](https://github.com/3mptySpac3/JPPortfolio).
+### [Portfolio](https://www.jean-pierre.dev/).
 <p>(⌐■_■) </p>
 
 ---
