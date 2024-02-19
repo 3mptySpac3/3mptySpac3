@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [Capstone](https://github.com/3mptySpac3/CAPSTONE.git)
 
-- 🔭 I’m currently working on [PierrePoint](https://github.com/3mptySpac3/PierrePoint.git)
+- 🔭 I’m currently working on [ChessGame](https://github.com/3mptySpac3/ChessGame.git)
 
 - 🌱 I’m currently learning **React, React Native, PL/SQL, Java**
 
