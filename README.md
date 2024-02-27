@@ -61,9 +61,9 @@ ___
 ### GitHub Stats: (✿◡‿◡)
 
 <p align="center">
-   <img width="300"src="https://github-readme-stats.vercel.app/api/top-langs/?username=3mptySpac3&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&text_color=white" /><br/>
+   <img width="300"src="https://github-readme-stats.vercel.app/api/top-langs/?username=3mptySpac3&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /><br/>
   
-<img src="https://github-readme-stats.vercel.app/api?username=3mptySpac3&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&text_color=white" />
+<img width="365" src="https://github-readme-stats.vercel.app/api?username=3mptySpac3&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
 
    
   <img width="400"  src="https://github-readme-streak-stats.herokuapp.com/?user=3mptySpac3&theme=dark&hide_border=true&text_color=white" alt="Jean-Pierre" />
