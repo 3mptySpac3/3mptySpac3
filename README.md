@@ -18,7 +18,7 @@
     <img src="mychess.png" width="300" alt="Project 1">
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/3mptySpac3/Dino">
-    <img src="DinoGame.png" width="300" alt="Project 2">
+    <img src="DinoGame.png" width="280" alt="Project 2">
   </a>
 </p>
 <p align="center">
