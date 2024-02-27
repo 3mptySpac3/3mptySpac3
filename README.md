@@ -61,11 +61,15 @@ ___
 ### GitHub Stats: (✿◡‿◡)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3mptySpac3&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3mptySpac3&theme=dark&hide_border=true" alt="Jean-Pierre" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3mptySpac3&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+   <img width="300"src="https://github-readme-stats.vercel.app/api/top-langs/?username=3mptySpac3&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /><br/>
+  
+  <img width="365" src="https://github-readme-stats.vercel.app/api?username=3mptySpac3&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
+
+   
+  <img width="400"  src="https://github-readme-streak-stats.herokuapp.com/?user=3mptySpac3&theme=dark&hide_border=true" alt="Jean-Pierre" />
+   
 </p>
 <p align="center">
-  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=3mptySpac3&bg_color=010202&color=FCFBFB&line=F67024&point=FCFBFB&area=true&hide_border=false" />
+  <img width="1000" src="https://github-readme-activity-graph.vercel.app/graph?username=3mptySpac3&bg_color=010202&color=FCFBFB&line=F67024&point=FCFBFB&area=true&hide_border=false" />
 </p>
 
