@@ -5,7 +5,7 @@
 <h3 align="center">A dynamic developer with an eye for design</h3>
 
 <p align="center">
-  <a href="https://www.jean-pierre.dev/"><strong>Check out my Portfolio</strong></a> <br>
+  <a href="https://www.jean-pierre.dev/"><strong>Portfolio</strong></a> <br>
   (⌐■_■)
 </p>
 
