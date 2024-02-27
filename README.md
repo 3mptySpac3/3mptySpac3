@@ -13,6 +13,19 @@
   <img src="https://komarev.com/ghpvc/?username=3mptyspac3&label=Profile%20views&color=0e75b6&style=flat" alt="3mptyspac3" />
 </p>
 
+<p align="center">
+  <a href="URL_TO_YOUR_PROJECT_1">
+    <img src="URL_TO_YOUR_IMAGE_1" width="50" alt="Project 1">
+  </a>
+  <a href="URL_TO_YOUR_PROJECT_2">
+    <img src="URL_TO_YOUR_IMAGE_2" width="50" alt="Project 2">
+  </a>
+  <a href="URL_TO_YOUR_PROJECT_3">
+    <img src="URL_TO_YOUR_IMAGE_3" width="50" alt="Project 3">
+  </a>
+  <!-- Add more projects as needed -->
+</p>
+
 ---
 
 - 🔭 I’m currently working on projects [Capstone](https://github.com/3mptySpac3/CAPSTONE.git) and [ChessGame](https://github.com/3mptySpac3/ChessGame.git).
