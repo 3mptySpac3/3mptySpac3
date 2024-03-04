@@ -25,7 +25,7 @@
   <a href="https://github.com/3mptySpac3/CSharp-Project-CPRG211">
     <img src="v41.png" width="300" alt="Project 3">
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/3mptySpac3/3mptySpac3/blob/main/Jshop.png">
+  <a href="https://github.com/3mptySpac3/JP-Store">
     <img src="Jshop.png" width="300" alt="Project 4">
   </a>
 </p>
