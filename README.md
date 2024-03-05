@@ -9,9 +9,16 @@
   (⌐■_■)
 </p>
 
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=3mptyspac3&label=Profile%20views&color=0e75b6&style=flat" alt="3mptyspac3" />
+  <a href="https://www.jean-pierre.dev/">
+    <img src="Port.png" width="400" alt="Porfolio">
+  </a>
 </p>
+
+---
+
+
 
 <p align="center">
   <a href="https://github.com/3mptySpac3/ChessGame">
@@ -73,3 +80,6 @@ ___
   <img width="1000" src="https://github-readme-activity-graph.vercel.app/graph?username=3mptySpac3&bg_color=010202&color=FCFBFB&line=F67024&point=FCFBFB&area=true&hide_border=false" />
 </p>
 
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=3mptyspac3&label=Profile%20views&color=0e75b6&style=flat" alt="3mptyspac3" />
+</p>
