@@ -25,8 +25,8 @@
   <a href="https://github.com/3mptySpac3/CSharp-Project-CPRG211">
     <img src="v41.png" width="300" alt="Project 3">
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.figma.com/proto/ofp2312WjvSgK8VpW6jcpK/Software-analysis?type=design&node-id=159-5601&t=GWH9vHRzun0qBtUZ-1&scaling=scale-down&page-id=82%3A649&starting-point-node-id=159%3A5601">
-    <img src="Capstone1.jpg" width="300" alt="Project 4">
+  <a href="https://github.com/3mptySpac3/JP-Store">
+    <img src="Jshop.png" width="300" alt="Project 4">
   </a>
 </p>
 
