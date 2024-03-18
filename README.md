@@ -67,6 +67,14 @@ ___
  **** REFRESH ****
 ### GitHub Stats: (✿◡‿◡)
 
+<div class="row" align="center">
+    
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=3mptySpac3&theme=github_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=3mptySpac3&theme=github_dark)
+  
+</div>
+
+
 <p align="center">
    <img width="300"src="https://github-readme-stats.vercel.app/api/top-langs/?username=3mptySpac3&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /><br/>
   
