@@ -55,14 +55,14 @@
 ### GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=3mptySpac3&theme=onestar&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="Jean-Pierre's Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=3mptySpac3&theme=onestar&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=6" alt="Jean-Pierre's Trophies" />
   </a>
 </p>
-<!-- <p align="center">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=3mptySpac3&theme=onestar&no-frame=true&no-bg=true&margin-w=15&margin-h=10&row=1&column=3&title=Stars,Followers,Issues" alt="Jean-Pierre's Trophies"  />
   </a>
-</p> -->
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
