@@ -19,14 +19,11 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/3mptySpac3/Vita-la-revolution.git">
-    <img src="CapstoneThumbnail.jpg" width="300" alt="Capstone">
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</P>
-
-<p align="center">
   <a href="https://github.com/3mptySpac3/ChessGame">
     <img src="mychess.png" width="300" alt="Project 1">
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/3mptySpac3/Vita-la-revolution.git">
+    <img src="CapstoneThumbnail.jpg" width="300" alt="Capstone">
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/3mptySpac3/Dino">
     <img src="DinoGame.png" width="290" alt="Project 2">
