@@ -12,20 +12,24 @@
 
 <p align="center">
   <a href="https://www.jean-pierre.dev/">
-    <img src="Port.png" width="400" alt="Porfolio">
+    <img src="Port.png" width="600" alt="Porfolio">
   </a>
 </p>
 
 ---
 
-
+<p align="center">
+  <a href="https://github.com/3mptySpac3/Vita-la-revolution.git">
+    <img src="CapstoneThumbnail.jpg" width="300" alt="Capstone">
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</P>
 
 <p align="center">
   <a href="https://github.com/3mptySpac3/ChessGame">
     <img src="mychess.png" width="300" alt="Project 1">
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/3mptySpac3/Dino">
-    <img src="DinoGame.png" width="280" alt="Project 2">
+    <img src="DinoGame.png" width="290" alt="Project 2">
   </a>
 </p>
 <p align="center">
