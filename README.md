@@ -20,21 +20,21 @@
 
 <p align="center">
   <a href="https://github.com/3mptySpac3/ChessGame">
-    <img src="mychess.png" width="300" alt="Project 1">
+    <img src="mychess.png" width="250" alt="Project 1">
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/3mptySpac3/Vita-la-revolution.git">
-    <img src="CapstoneThumbnail.jpg" width="300" alt="Capstone">
+    <img src="CapstoneThumbnail.jpg" width="250" alt="Capstone">
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/3mptySpac3/Dino">
-    <img src="DinoGame.png" width="290" alt="Project 2">
+    <img src="DinoGame.png" width="230" alt="Project 2">
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/3mptySpac3/CSharp-Project-CPRG211">
-    <img src="v41.png" width="300" alt="Project 3">
+    <img src="v41.png" width="250" alt="Project 3">
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/3mptySpac3/JP-Store">
-    <img src="Jshop.png" width="300" alt="Project 4">
+    <img src="Jshop.png" width="250" alt="Project 4">
   </a>
 </p>
 
