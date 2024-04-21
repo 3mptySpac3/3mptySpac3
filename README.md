@@ -40,7 +40,7 @@
 
 ---
 
-- 🔭 I’m currently working on projects [Capstone](https://github.com/3mptySpac3/CAPSTONE.git) and [J-Shop](https://github.com/3mptySpac3/JP-Store.git).
+- 🔭 I’m currently working on projects [Capstone](https://github.com/3mptySpac3/Vita-la-revolution.git) and [J-Shop](https://github.com/3mptySpac3/JP-Store.git).
 - 🌱 I’m currently learning **React, React Native, PL/SQL, Java**.
 - 📫 How to reach me: **jp@jean-pierre.dev**.
 
