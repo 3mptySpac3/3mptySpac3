@@ -30,8 +30,8 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/3mptySpac3/CSharp-Project-CPRG211">
-    <img src="v41.png" width="250" alt="Project 3">
+  <a href="https://github.com/3mptySpac3/30-Thirty">
+    <img src="thumbnail3030.png" width="250" alt="Project 3">
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/3mptySpac3/JP-Store">
     <img src="Jshop.png" width="250" alt="Project 4">
