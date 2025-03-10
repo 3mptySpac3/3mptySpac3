@@ -7,14 +7,15 @@
 <p align="center">
 <!--   <a href="https://www.jean-pierre.dev/"><strong>Portfolio</strong></a> <br> -->
 <!--   Temp -->
-<a href="jpp-ortfolio-git-main-jean-pierres-projects.vercel.app"><strong>Portfolio</strong></a>
-  
-  (⌐■_■)
+<a href="https://jpp-ortfolio-git-main-jean-pierres-projects.vercel.app"><strong>Portfolio</strong></a>
+(⌐■_■)
 </p>
 
 
+
 <p align="center">
-  <a href="https://www.jean-pierre.dev/">
+<!--   <a href="https://www.jean-pierre.dev/"> -->
+  <a href="https://jpp-ortfolio-git-main-jean-pierres-projects.vercel.app"><strong>Portfolio</strong></a>
     <img src="Port.png" width="600" alt="Porfolio">
   </a>
 </p>
