@@ -5,17 +5,14 @@
 <h3 align="center">A dynamic developer with an eye for design</h3>
 
 <p align="center">
-<!--   <a href="https://www.jean-pierre.dev/"><strong>Portfolio</strong></a> <br> -->
-<!--   Temp -->
-<a href="https://jpp-ortfolio-git-main-jean-pierres-projects.vercel.app"><strong>Portfolio</strong></a> <br>
+  <a href="https://www.jean-pierre.dev/"><strong>Portfolio</strong></a> <br> 
 (⌐■_■)
 </p>
 
 
 
 <p align="center">
-<!--   <a href="https://www.jean-pierre.dev/"> -->
-  <a href="https://jpp-ortfolio-git-main-jean-pierres-projects.vercel.app">
+ <a href="https://www.jean-pierre.dev/"> 
     <img src="Port.png" width="600" alt="Porfolio">
   </a>
 </p>
