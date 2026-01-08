@@ -59,7 +59,7 @@
 <p align="center">
   <img
     src="https://github-profile-trophy.vercel.app/?username=3mptySpac3&theme=onestar&column=-1&no-frame=true"
-    alt="GitHub Trophies"
+    alt="GitHub Trophie"
   />
 </p>
 
@@ -73,18 +73,17 @@ ___
  **** REFRESH ****
 ### GitHub Stats: (✿◡‿◡)
 
-<div class="row" align="center">
-    
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=3mptySpac3&theme=dark)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=3mptySpac3&theme=dark)
-  
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=3mptySpac3&theme=dark&cache_seconds=21600" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=3mptySpac3&theme=dark&cache_seconds=21600" />
+</p>
+
 
 
 <p align="center">
-   <img width="300"src="https://github-readme-stats.vercel.app/api/top-langs/?username=3mptySpac3&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /><br/>
+   <!-- <img width="300"src="https://github-readme-stats.vercel.app/api/top-langs/?username=3mptySpac3&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /><br/> -->
   
-<img width="365" src="https://github-readme-stats.vercel.app/api?username=3mptySpac3&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+<!-- <img width="365" src="https://github-readme-stats.vercel.app/api?username=3mptySpac3&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" /> -->
 
    
 <img width="400" src="https://streak-stats.demolab.com/?user=3mptySpac3&theme=dark&hide_border=true&text_color=white&cache_seconds=100" />
