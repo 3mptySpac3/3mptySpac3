@@ -58,10 +58,13 @@
 ### 🏆 GitHub Trophies
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=3mptySpac3&theme=onestar&column=-1&no-frame=true"
-    alt="GitHub Trophie"
+    src="https://github-profile-trophy-liard-delta.vercel.app/?username=3mptySpac3&theme=onestar&rank=AAA,AA,A,B&no-frame=true"
+    alt="GitHub Trophies"
   />
 </p>
+
+
+
 
 
 
