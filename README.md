@@ -55,12 +55,12 @@
   </a>
 </p>
 
-### 🏆 GitHub Trophies
-<p align="center">
+<!--### 🏆 GitHub Trophies
+<!-- <p align="center">
   <img
     src="https://github-profile-trophy-liard-delta.vercel.app/?username=3mptySpac3&theme=onestar&title=Stars,Followers,Commits,Repositories&column=4&no-frame=true"
   />
-</p>
+</p> -->
 
 
 
